@@ -40,7 +40,7 @@
     "karma-webpack": "4.0.2",
     "preload-webpack-plugin": "2.3.0",
     "style-loader": "0.23.1",
-    "webpack-dev-server": "3.1.5"
+    "webpack-dev-server": "3.9.0"
   },
   "dependencies": {
     "@webcomponents/custom-elements": "1.2.1",
