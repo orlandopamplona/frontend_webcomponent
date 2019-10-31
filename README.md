@@ -1,6 +1,6 @@
 ![Logo of the project](./images/logo.png)
 
-# Example Creating User Accounts Test (Frontend in Web Components)
+# Example Creating User Accounts (Frontend in Web Components)
 
 Frontend using the development of pure web components, presenting a screen for customer registration, in which validations are performed in the fields for the correct submission of the registration request.
 
