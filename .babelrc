@@ -1,0 +1,23 @@
+{
+  "plugins": [
+    "transform-custom-element-classes",
+    "transform-es2015-classes"
+  ],
+  "presets": [[
+    "env", {
+      "targets": {
+        "browsers": ["> 1%",
+          "Firefox >= 52",
+          "edge >= 17",
+          "IE >= 11",
+          "safari >= 7",
+          "Chrome >= 55"]
+      },
+      "modules": false,
+      "useBuiltIns": true,
+      "debug": true,
+      "include": ["transform-es2015-arrow-functions", "es6.map"],
+      "exclude": ["transform-regenerator", "es6.set"]
+    }
+  ]]
+}

@@ -1,0 +1,263 @@
+.registerBox {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  width: 100%;
+  max-width: 522px;
+  height: 100%;
+  max-height: 780px;
+  background: #FFFFFF;
+  border: 3px solid #F2F2F2;
+  box-sizing: border-box;
+
+}
+
+.state {
+  width: 100%;
+  max-width: 522px;
+  height: 100%;
+  max-height: 780px;
+  background: transparent;
+}
+
+.formRegister {
+  position: relative;
+  height: 740px;
+  max-height: 740px;
+  margin: 0px;
+  padding-top: 56px;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-bottom: 48px;
+}
+
+.divLogotype {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 375px;
+}
+
+.divHeadTitle {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  top: 12px;
+  max-width: 375px;
+  line-height: 31px;
+}
+
+.divFieldName {
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  text-align: left;
+  width: 100%;
+  max-width: 375px;
+  top: 35px;
+}
+
+.divFieldNameTitle {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  position: relative;
+  text-align: left;
+  width: 100%;
+  max-width: 375px;
+}
+
+.divFieldNameText {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  position: relative;
+  text-align: left;
+  margin: 0px;
+  width: 100%;
+  max-width: 375px;
+}
+
+.divFieldEmail {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  text-align: left;
+  width: 100%;
+  max-width: 375px;
+  top: 55px;
+}
+
+.divFieldEmailTitle {
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  text-align: left;
+  width: 100%;
+  max-width: 375px;
+}
+
+.divFieldEmailText {
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  text-align: left;
+  width: 100%;
+  max-width: 375px;
+}
+
+.divFieldPassword {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  text-align: left;
+  width: 100%;
+  max-width: 375px;
+  top: 73px;
+}
+
+.divFieldPasswordTitle {
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  text-align: left;
+  width: 100%;
+  max-width: 375px;
+}
+
+.divFieldPasswordText {
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  text-align: left;
+  width: 100%;
+  max-width: 375px;
+}
+
+.divIndicators {
+  position: relative;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 375px;
+  height: 8px;
+  top: 80px;
+}
+
+.divRulesGroup {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 375px;
+  top: 95px;
+}
+
+.divRules {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: left;
+  vertical-align: middle;
+  width: 100%;
+  max-width: 375px;
+}
+
+.divFieldConfirmPassword {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  text-align: left;
+  width: 100%;
+  max-width: 375px;
+  top: 108px;
+}
+
+.divFieldConfirmPasswordTitle {
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  text-align: left;
+  width: 100%;
+  max-width: 375px;
+}
+
+.divFieldConfirmPasswordText {
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  text-align: left;
+  width: 100%;
+  max-width: 375px;
+}
+
+.divBtnCreateAccount {
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  text-align: left;
+  width: 100%;
+  max-width: 375px;
+  top: 140px;
+}
+
+.divIndicatorsOne {
+  position: relative;
+  width: 33%;
+  max-width: 119.67px;
+  height: 8px;
+}
+
+.divIndicatorsTwo {
+  position: relative;
+  width: 33%;
+  max-width: 119.67px;
+  height: 8px;
+}
+
+.divIndicatorsThree {
+  position: relative;
+  width: 33%;
+  max-width: 119.67px;
+  height: 8px;
+}
+
+.divRulesRule {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+  width: 10px;
+  height: 26px;
+}

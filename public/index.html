@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Create Account - Teste OLIST</title>
+  <link rel="stylesheet" href="./stylesheet.css">
+  <link rel="stylesheet" href="./index.css">
+  <script type="text/javascript">
+    function isAccountCreated() {
+      var params = [], hash;
+      var elements = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+      for (var i = 0; i < elements.length; i++) {
+        hash = elements[i].split('=');
+        params[hash[0]] = hash[1];
+      }
+      const accountCreated = params['accountCreated'];
+      var olistRegister = document.getElementById("registerBox");
+      if (olistRegister) {
+        olistRegister.accountcreated = accountCreated ? 'true' : 'false';       
+      }
+    }
+  </script>
+</head>
+
+<body onload="isAccountCreated()">
+  <script type="text/javascript" src="bundle.js"></script>
+  <div id="divRegister" class="divRegister">
+    <olist-register id="registerBox"
+        class="olistTestRegisterUser"
+        accountcreated="false">
+    </olist-register>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,21 @@
+.divRegister {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background: #E5E5E5;
+}
+
+.olistTestRegisterUser {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 780px;
+    max-width: 522px;
+    padding-top: 80px;
+    padding-bottom: 92px;
+}

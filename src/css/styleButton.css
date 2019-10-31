@@ -1,0 +1,72 @@
+.createAccount {
+  position: relative;
+  width: 100%;
+  max-width: 375px;
+  height: 52px;
+  background: #17D499;
+  border: 1px solid #17D499;
+  font-family: SF Pro Text;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 26px;
+}
+
+.dotLoading {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 375px;
+  height: 52px;
+  background: #17D499;
+
+}
+
+.dotLarge {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 10px;
+  height: 10px;
+  border: 1px solid #FFFFFF;
+  background: #FFFFFF;
+  border-radius: 100px;
+  margin-left: 6px;
+}
+
+.dotMedium {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 7px;
+  height: 7px;
+  border: 1px solid #FFFFFF;
+  background: #FFFFFF;
+  border-radius: 100px;
+  margin-left: 6px;
+}
+
+.dotSmall {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 4px;
+  height: 4px;
+  border: 1px solid #FFFFFF;
+  background: #FFFFFF;
+  border-radius: 100px;
+  margin-left: 6px;
+}
+
+

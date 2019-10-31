@@ -1,0 +1,17 @@
+.logotype {
+  position: relative;
+  width: 100%;
+  max-width: 88px;
+  height: 35px;
+}
+
+.logotypeConfirmedBox {
+  position: relative;
+  width: 87.83px;
+  height: 35px;
+  top: 60px;
+}
+
+.iconConfirmed {
+  position: relative;
+}

@@ -1,0 +1,56 @@
+.indicatorOne {
+  width: 100%;
+  max-width: 119.67px;
+  height: 8px;
+  border-radius: 10px;
+}
+
+.indicatorTwo {
+  width: 100%;
+  max-width: 119.67px;
+  height: 8px;
+  border-radius: 10px;
+}
+
+.indicatorThree {
+  width: 100%;
+  max-width: 119.67px;
+  height: 8px;
+  border-radius: 10px;
+}
+
+.indicatorRuleOne {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+}
+
+.indicatorRuleTwo {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+}
+
+.indicatorRuleThree {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+}

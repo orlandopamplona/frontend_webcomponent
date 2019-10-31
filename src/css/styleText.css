@@ -1,0 +1,80 @@
+.headTitle {
+  position: relative;
+  font-family: SF Pro Text;
+  font-weight: bold;
+  line-height: 32px;
+  font-size: 22px;
+  text-align: center;
+  color: #312F4F;
+}
+
+.name {
+  position: relative;
+  font-family: SF Pro Text;
+  width: 100%;
+  max-width: 375px;
+  line-height: 26px;
+  font-size: 16px;
+  text-align: Left;
+  color: #696D8C;
+}
+
+.email {
+  position: relative;
+  font-family: SF Pro Text;
+  width: 100%;
+  max-width: 375px;
+  line-height: 26px;
+  font-size: 16px;
+  text-align: Left;
+  color: #696D8C;
+}
+
+.password {
+  position: relative;
+  font-family: SF Pro Text;
+  width: 100%;
+  max-width: 375px;
+  line-height: 26px;
+  font-size: 16px;
+  text-align: Left;
+  color: #696D8C;
+}
+
+.rules {
+  position: relative;
+  font-family: SF Pro Text;
+  line-height: 26px;
+  font-size: 16px;
+  text-align: Left;
+  color: #696D8C;
+  padding-left: 5px;
+  width: 100%;
+  max-width: 375px;
+}
+
+.msgConfirmMail {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 5px;
+  font-family: SF Pro Text;
+  font-size: 16px;
+  line-height: 27px;
+  text-align: center;
+  color: #312F4F;
+}
+
+.msgConfirmTitle {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 5px;
+  font-family: SF Pro Text;
+  font-size: 22px;
+  line-height: 32px;
+  text-align: center;
+  color: #312F4F;
+}

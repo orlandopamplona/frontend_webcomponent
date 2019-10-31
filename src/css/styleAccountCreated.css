@@ -1,0 +1,62 @@
+.loginBox {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  width: 100%;
+  max-width: 515px;
+  height: 100%;
+  top: 80px;
+  max-height: 484px;
+  background: #FFFFFF;
+  border: 3px solid #F2F2F2;
+  box-sizing: border-box;
+}
+
+.divLogotype {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 515px;
+}
+
+.divEllipse {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 84px;
+  height: 84px;
+  left: 215px;
+  top: 187px;
+  border: 3px solid #17D499;
+  border-radius: 100px;
+}
+
+.divConfirmedTitle {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 237px;
+  height: 23px;
+  left: 139px;
+  top: 287px;
+}
+
+.divConfirmedMsg {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 249px;
+  height: 54px;
+  left: 133px;
+  top: 326px;
+}
