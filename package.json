@@ -61,7 +61,7 @@
     "to-string-loader": "1.1.5",
     "webcomponents": "0.1.4",
     "webcomponents-loader": "1.0.1",
-    "webpack": "4.16.2",
+    "webpack": "5.94.0",
     "webpack-cli": "3.1.0",
     "webpack-merge": "^4.2.2"
   }
